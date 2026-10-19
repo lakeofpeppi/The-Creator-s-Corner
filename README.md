@@ -60,7 +60,7 @@ No installation or additional dependencies are required.
 
 ## 🌐 Live Website
 
-[Visit The Creator's Corner](https://lakeofpeppi.github.io/The-Creator-s-Corner/)
+[Visit The Creator's Corner](file:///Users/angeliemelisa/Downloads/index.html)
 
 ## 📝 Notes
 
